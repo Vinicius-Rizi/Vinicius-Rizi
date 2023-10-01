@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Vnc 🧐
+## Bem-vindo(a) ao perfil do Vinícius Rizi😁
 
  <div>
-   <a href="https://github.com/Vinicius-Rizi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rizi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Rizi&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Vinícius-Rizi">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinícius-Rizi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -19,6 +19,5 @@
 <div>
   <a href="https://instagram.com/vinicius_rizi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciusrizi19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank">
-  </a>
-<div/>
+  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+</div>
