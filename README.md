@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Vinícius Rizi😁
 
  <div>
-<a href=" https://github.com/ Vinicius -Rizi " >
+<a href=" https://github.com/ ViniciusRizi " >
     
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinícius-Rizi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
